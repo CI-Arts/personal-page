@@ -1,13 +1,29 @@
-# cod2b497c8666bda750f5ffeb
+# Hi there, I'm Alpha Leon! 👋 
 
-## About Scrimba
+### 🚀 Creative Technologist & Founder of C I Arts
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+Welcome to my digital workbench. I bridge the gap between creative visual design and advanced physical system modeling, currently developing **Eazi Profit**—a high-utility ERP-lite computing ecosystem engineered to streamline heavy industry and field operations.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+---
 
-Happy Coding!
+### 🛠️ Active Development Vector: Eazi Profit
+An automated computational suite designed to replace manual lookup charts with high-precision digital matrices.
+- **Petroleum Engine Core:** Fully automated ASTM D1250 / API MPMS Ch. 11.1 multi-pass convergence loops.
+- **Dual Matrix Inputs:** Native options for direct hydrometer entry or raw pycnometer analytical balances.
+- **Mobile First UX:** Built from scratch using ultra-lightweight architecture with strict offline capability.
+
+---
+
+### 💻 System Stack & Core Proficiencies
+- **Languages:** JavaScript (ES6+), Visual Basic for Applications (VBA), Python, HTML5, CSS3
+- **Environments:** Mobile-first Web Architecture, Advanced Excel automation frameworks
+- **Creative Suite:** Adobe Illustrator (Vector UI/UX layout engineering)
+
+---
+
+### 📈 Current Metrics & Project Showcases
+- 📦 **[Eazi Profit Calcx](https://github.io)** - Live web-engine deployment for field lab chemists.
+- 🎨 **C I Arts Portfolio:** Find my graphic materials, design systems, and digital creativity showcases live on [Instagram](https://instagram.com).
+
+*Let's build systems that translate theoretical physics into effortless field actions.*
+
