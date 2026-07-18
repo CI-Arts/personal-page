@@ -1,4 +1,4 @@
-# Hi there, I'm Alpha Leon! 👋 
+# Hi there, I'm Chukwuma John Ijeli (Alpha Leon!) 👋 
 
 ### 🚀 Creative Technologist & Founder of C I Arts
 
